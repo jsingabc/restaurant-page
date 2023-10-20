@@ -1,0 +1,14 @@
+body {
+    background-color: yellowgreen;
+    font-size: 18px;
+}
+
+#contactPic {
+    height: 400px;
+    width: 400px;
+}
+
+#contactDiv{
+    background-color: yellow;
+    font-size: 32px;
+}
